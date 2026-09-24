@@ -17,8 +17,7 @@ Career-transitioner from **Music** into **Tech**, currently completing the **Ful
 
 - M.M. & B.M. in Music, Payap University
 - Full-Stack Web Development, Generation Thailand (MERN stack)
-- Sprint Lead on a 5-person team project — 85 commits, led Sprint 1 product artifacts and a static prototype, then supported the transition to a MERN application
-- Presented final project outcomes (workflow, business value, next-step recommendations) to program instructors
+- Team Leader on a 5-person project across all 3 sprints — delivered product artifacts and a static prototype, then guided the team through the transition into a full MERN application
 
 ---
 
@@ -42,19 +41,16 @@ Career-transitioner from **Music** into **Tech**, currently completing the **Ful
 **Product & Delivery**
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=googleworkspace&logoColor=white" />
   <img src="https://img.shields.io/badge/Agile%2FScrum-0052CC?style=flat-square&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Team%20Leadership-2EA3F2?style=flat-square" />
   <img src="https://img.shields.io/badge/Stakeholder%20Comms-2EA3F2?style=flat-square" />
   <img src="https://img.shields.io/badge/Event%20%26%20Vendor%20Coordination-2EA3F2?style=flat-square" />
-</p>
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pathsharasakon-ws&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathsharasakon-ws&layout=compact&hide_border=true" />
 </p>
 
 ---
